@@ -7,6 +7,12 @@ namespace DeckOfCards
         static void Main(string[] args)
         {
             Console.WriteLine("welcome to Deck of cards!!");
+			DeckOfCards Cards = new DeckOfCards();
+          //  DeckOfCards.ReadInput();
+            Console.Read();
+
         }
+		
     }
 }
+
